@@ -1,0 +1,35 @@
+{
+  "Data Science & AI": [
+    "python", "pandas", "numpy", "scikit-learn", "tensorflow", "pytorch", "keras",
+    "machine learning", "deep learning", "nlp", "natural language processing",
+    "computer vision", "opencv", "sql", "data analysis", "data visualization",
+    "matplotlib", "seaborn", "feature engineering", "pca", "xgboost", "lightgbm",
+    "statistics", "r", "tableau", "power bi", "big data", "spark", "hadoop",
+    "transformers", "huggingface", "bert", "llm", "recommendation systems"
+  ],
+  "Backend Development": [
+    "python", "java", "c#", ".net", "golang", "go", "nodejs", "node.js",
+    "django", "flask", "fastapi", "spring boot", "asp.net", "postgresql",
+    "mongodb", "redis", "mysql", "sqlite", "docker", "kubernetes", "rest api",
+    "restful", "microservices", "rabbitmq", "kafka", "graphql", "grpc",
+    "elasticsearch", "orm", "sqlalchemy", "hibernate", "oop", "design patterns"
+  ],
+  "Frontend Development": [
+    "javascript", "typescript", "html", "html5", "css", "css3", "react",
+    "react.js", "vue", "vue.js", "angular", "next.js", "nextjs", "tailwind",
+    "bootstrap", "redux", "sass", "less", "webpack", "vite", "responsive design",
+    "web performance", "dom", "ui/ux", "jest", "cypress"
+  ],
+  "DevOps & Cloud": [
+    "aws", "azure", "gcp", "google cloud", "docker", "kubernetes", "k8s",
+    "terraform", "ansible", "jenkins", "gitlab ci", "github actions", "ci/cd",
+    "linux", "bash", "shell scripting", "prometheus", "grafana", "nginx",
+    "helm", "cloudformation", "networking", "security", "serverless"
+  ],
+  "General & Soft Skills": [
+    "git", "github", "gitlab", "agile", "scrum", "jira", "unit testing",
+    "integration testing", "code review", "problem solving", "communication",
+    "teamwork", "leadership", "mentoring"
+  ]
+}
+

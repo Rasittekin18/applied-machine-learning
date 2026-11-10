@@ -41,6 +41,12 @@ venv.bak/
 *.swp
 *.swo
 
+# Testing / Pytest
+.pytest_cache/
+*.pytest_cache
+.coverage
+htmlcov/
+
 # OS files
 .DS_Store
 Thumbs.db
